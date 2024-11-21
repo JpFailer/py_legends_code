@@ -1,2 +1,22 @@
 ID,Nombre,Apellido,Edad,Carrera,Sexo,Semestre,n°_cédula,Fecha_dIngreso,Hora_ingreso,Hora_salida,Libro_solicitado
-2,juanini,molini,19,Ingeniería Informática,Masculino,3,32370840,2024-11-20,1900-01-01 02:43:43,04:43:43,harry potter
+1,Juan,Morles,10,Ingeniería Informática,Masculino,3,32370840,2024-11-21,14:55:01,16:55:01,Cien años de soledad
+2,Miguel,Moreno,19,Ingeniería Informática,Masculino,3,33765090,2024-11-21,14:56:01,15:56:01,Chainsaw man: primera parte
+3,Rubiangel,González,19,Ingeniería Informática,Femenino,3,31876950,2024-11-21,15:16:30,18:16:30,Titanic: El viaje del infame
+4,Eric,Mendez,19,Ingeniería Informática,Masculino,5,30874911,2024-11-21,15:17:16,17:17:16,Geometría Analítica
+5,Samuel,León,19,Ingeniería Informática,Masculino,8,31090888,2024-11-21,15:18:44,16:18:44,Geometría Analítica
+6,Venus,Portillo,19,Ingeniería Informática,Femenino,3,31865003,2024-11-21,16:33:04,17:33:04,Geometría Analítica
+7,Mauricio,Carvajal,18,Administración,Masculino,6,30926544,2024-11-21,16:34:21,17:34:21,One Piece
+8,Angel,Morles,15,Ingeniería Marítima,Masculino,1,33765404,2024-11-21,16:48:33,17:48:33,Geometría Analítica
+9,Abraham,Angulo,19,Ingeniería Informática,Masculino,3,30753888,2024-11-21,17:00:50,18:00:50,Dinámica
+10,Analiz,Piñango,17,Turismo,Femenino,3,34586999,2024-11-21,19:02:19,22:02:19,Crimen y castigo
+11,Arnold,Larez,22,Administración,Masculino,8,26890777,2024-11-21,18:04:04,20:04:04,Cálculo de Varias Variables: Trascendentes Tempranas
+12,Maxwell,Cordero,20,Ingeniería Marítima,Masculino,5,28909767,2024-11-21,19:05:45,22:05:45,Doña Bárbara
+13,José,Marcano,20,Turismo,Masculino,4,30001876,2024-11-21,17:09:58,18:09:58,Chainsaw man: segunda parte
+14,Pedro,Marcano,20,Ingeniería Informática,Masculino,4,30865993,2024-11-24,19:17:09,22:17:09,Crimen y castigo
+15,Ashley,Lugo,20,Turismo,Femenino,3,30687443,2024-12-07,17:20:13,18:20:13,El principito
+16,Jose,Noguera,19,Ingeniería Informática,Masculino,8,32578554,2024-11-22,07:22:59,08:22:59,Dinámica
+17,Brayan,López,20,Administración,Masculino,6,32098578,2024-11-22,02:24:38,03:24:38,Dinámica
+18,Marian,Campos,18,Turismo,Femenino,2,32475897,2024-11-24,09:25:58,12:25:58,Titanic: El viaje del infame
+19,Haryerit,Larez,19,Ingeniería Informática,Femenino,6,32688994,2024-11-23,05:27:15,07:27:15,Titanic: El viaje del infame
+20,María,Lugo,20,Administración,Femenino,9,30955212,2024-11-24,03:28:33,06:28:33,La metamorfosis
+21,Luffy,Monkey D.,19,Ingeniería Marítima,Masculino,3,32478965,2024-11-23,12:30:28,14:30:28,One Piece
